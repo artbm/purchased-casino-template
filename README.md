@@ -1,3 +1,19 @@
+# LinkedIn exercise:
+
+## Run:
+
+```bash
+npm install
+cd server
+node server.js
+```
+
+## Don't forget to create a local.env file as shown below, and add an ALCHEMY_URL API key.
+
+## Navigate to http://localhost:7777/api/erc20/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 , you can replace the contract address by any normal ERC20 contract address. It will fetch the name, symbol, total supply and decimals of the token.
+
+# --------------------------------------------
+
 # Casino Platform (Casino Template - Paid Version 1.1.2)
 
 ## Technologies Used
@@ -24,6 +40,7 @@
 - Security-packages included to make the application more robust are: **helmet**, **hpp**, **express-rate-limit** & **express-mongo-sanitize**
 
 ### Blockchain:
+
 (coming soon...)
 
 ## Quick Start
